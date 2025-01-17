@@ -26,8 +26,8 @@
 - Binary Encoding: 11111110101000000001011001100011  
 
 **lui a2, 0x1**  
- -Type: U-Type  
- -Binary Encoding: 00000000000100011000000110111
+- Type: U-Type  
+- Binary Encoding: 00000000000100011000000110111
 
 **addi a2, a2, 954**  
 - Type: I-Type  
@@ -51,7 +51,7 @@
 
 **li a0, 0**  
 - Type: I-Type  
-- Binary Encoding:00000000000000000000000100010011  
+- Binary Encoding: 00000000000000000000000100010011  
 
 **ld ra, 8(sp)**  
 - Type: I-Type  
@@ -63,5 +63,5 @@
 
 **ret**   
 - Type: I-Type  
-- Binary Encoding:00000000000000001000000001100111  
+- Binary Encoding: 00000000000000001000000001100111  
 
