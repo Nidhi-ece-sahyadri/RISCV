@@ -1,4 +1,12 @@
 <details>
+<summary> Task 1 </summary>
+<details>
+<summary> Task 2 </summary>
+
+ 
+<details>
+
+  
 <summary> Task 3 </summary>
 
 ## 15 Unique RISC-v Instructions and their 32- Bit encodings
@@ -65,3 +73,6 @@
 - Type: I-Type  
 - Binary Encoding: 00000000000000001000000001100111  
 
+
+<details>
+<summary> Task 4 </summary>
