@@ -1,7 +1,3 @@
-<details>
-<summary> Task 1 </summary>
-<details>
-<summary> Task 2 </summary>
 
  
 <details>  
