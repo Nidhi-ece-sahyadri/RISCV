@@ -1,9 +1,6 @@
 <details>  
 <summary> Task 1 </summary>
 
-
-
-
  
 <details>  
 <summary> Task 3 </summary>
