@@ -69,5 +69,18 @@
 - Binary Encoding: 00000000000000001000000001100111  
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <details>
 <summary> Task 4 </summary>
