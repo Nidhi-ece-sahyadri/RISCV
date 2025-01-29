@@ -113,12 +113,15 @@ Table for Pin Connection
 - Trig	to PD3
 - Echo to	PD2
 - Gnd to	Gnd
+
 **LED,	Resistor**
 - LED positive to PD4
 - LED negative to	220Ω	to Gnd
+
 **Buzzer**
 - Pin 1 to	PC7 	VSD Squadron Mini
 - Pin 2	to Gnd	VSD Squadron Mini
+  
 **Button Switch	 and VSD Squadron Mini**
 - Pin 1 to	5V
 - Pin 2 to	PC3
