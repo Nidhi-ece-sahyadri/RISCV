@@ -4,6 +4,10 @@
 <details>  
 <summary> Task 3 and task 5 </summary>
 
+<details>  
+<summary> Task 3 </summary>
+
+
 ## 15 Unique RISC-v Instructions and their 32- Bit encodings
 
 ## RISC-V Instructions and their Ecodings
@@ -104,20 +108,20 @@ Components Required
 
 Table for Pin Connection
 
-HC-SR04 Ultrasonic Sensor	VSD Squadron Mini
-VCC	5V
-Trig	PD3
-Echo	PD2
-Gnd	Gnd
-LED	Resistor	VSD Squadron Mini
-+		PD4
-–	220Ω	Gnd
-Buzzer	VSD Squadron Mini
-Pin 1	PC7
-Pin 2	Gnd
-Button Switch	VSD Squadron Mini
-Pin 1	5V
-Pin 2	PC3
+- HC-SR04 Ultrasonic Sensor	VSD Squadron Mini
+- VCC	5V
+- Trig	PD3
+- Echo	PD2
+- Gnd	Gnd
+- LED	Resistor	VSD Squadron Mini
+- +		PD4
+- –	220Ω	Gnd
+- Buzzer	VSD Squadron Mini
+- Pin 1	PC7
+- Pin 2	Gnd
+- Button Switch	VSD Squadron Mini
+- Pin 1	5V
+- Pin 2	PC3
 
 
 
