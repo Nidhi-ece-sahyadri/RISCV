@@ -105,7 +105,7 @@ Privacy-Friendly: Suitable for use in private rooms without violating privacy.
 - Red LED
 - Passive Buzzer
 - 220 Ohm Resistor
-- Toggle Switch
+
 
 
 ## Table for Pin Connection
@@ -129,6 +129,7 @@ Privacy-Friendly: Suitable for use in private rooms without violating privacy.
   
 
   ## circuit diagram
+  ## VSD Squadron Mini Motion Sensing Alarm
  ![](https://github.com/Nidhi-ece-sahyadri/RISCV/blob/cd5906589598fbf52364114e4c764e957478cc04/TASK5/A%20RISC%20V_nidhi.jpg)
   
 </details>
