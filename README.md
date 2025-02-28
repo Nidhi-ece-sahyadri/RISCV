@@ -1,6 +1,10 @@
-
-
- 
+## RISC-V workshop
+## About Me
+Name: Shrinidhi
+College: Sahyadri college of engineering and management
+Email ID: shrinidhi.ec23@sahyadri.edu.in
+## LinkedIn 
+[LinkedIn](https://www.linkedin.com/in/shrinidhi-6239a8292)
 
 
 </details>
