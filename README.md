@@ -5,7 +5,7 @@
 <summary> Task 3 and task 5 </summary>
 
 <details>  
-<summary> Task 3 </summary>
+  <summary> Task 3 </summary>
 
 
 ## 15 Unique RISC-v Instructions and their 32- Bit encodings
