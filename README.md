@@ -4,6 +4,9 @@
 <details>  
 <summary> Task 3 and task 5 </summary>
 
+
+</details>
+
 <details>  
   <summary> Task 3 </summary>
 
@@ -72,7 +75,7 @@
 - Type: I-Type  
 - Binary Encoding: 00000000000000001000000001100111  
 
-
+</details>
 
 <details>
   <summary> Task 5 - Project Overview</summary>
@@ -127,6 +130,7 @@ Table for Pin Connection
 - Pin 1 to	5V
 - Pin 2 to	PC3
 
+</details>
 
 [LinkedIn](https://www.linkedin.com/in/shrinidhi-6239a8292)
 
