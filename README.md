@@ -129,7 +129,7 @@ Privacy-Friendly: Suitable for use in private rooms without violating privacy.
 - Pin 2 to	PC3
 
   ## circuit diagram
-  
+ ![](https://github.com/Nidhi-ece-sahyadri/RISCV/blob/cd5906589598fbf52364114e4c764e957478cc04/TASK5/A%20RISC%20V_nidhi.jpg)
   
 </details>
 
