@@ -73,8 +73,9 @@
 - Binary Encoding: 00000000000000001000000001100111  
 
 
-<details>  
-<summary> Task 5 </summary>
+
+<details>
+  <summary> Task 5 - Project Overview</summary>
 
 ## Advanced Easy to use Burgler Alarm
 
