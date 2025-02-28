@@ -80,7 +80,7 @@
 
 ## VSD Squadron Mini Motion Sensing Alarm
 
-Introduction
+## Introduction
 In the age of modern IoT devices, CCTV cameras are commonly used for surveillance. However, they are often difficult to install, require internet connectivity, consume significant memory, and can’t be installed in private rooms where privacy is a concern. Therefore, there is a need for a medium-level security device that can detect trespassing, is easy to install, and operates with minimal power.
 
 ## Overview
@@ -110,23 +110,23 @@ Privacy-Friendly: Suitable for use in private rooms without violating privacy.
 
 ## Table for Pin Connection
 
-**HC-SR04 Ultrasonic Sensor	 and VSD Squadron Mini**
-- VCC	 to 5V
-- Trig	to PD3
-- Echo to	PD2
-- Gnd to	Gnd
+|HC-SR04 Ultrasonic Sensor	| VSD Squadron Mini| 
+|--------------------------|------------------|
+| VCC	 | 5V|
+|Trig	| PD3|
+|Echo |	PD2|
+|Gnd |	Gnd|
 
-**LED,	Resistor**
-- LED positive to PD4
-- LED negative to	220Ω	to Gnd
+|LED | VSD Squadron|
+|----|-------------|
+| positive | PD4|
+| negative | Gnd|
 
-**Buzzer**
-- Pin 1 to	PC7 	VSD Squadron Mini
-- Pin 2	to Gnd	VSD Squadron Mini
+|Buzzer | VSD Squadron|
+|-------|--------------|
+ |Pin 1 |	PC7 	|
+ |Pin 2	| Gnd	|
   
-**Button Switch	 and VSD Squadron Mini**
-- Pin 1 to	5V
-- Pin 2 to	PC3
 
   ## circuit diagram
  ![](https://github.com/Nidhi-ece-sahyadri/RISCV/blob/cd5906589598fbf52364114e4c764e957478cc04/TASK5/A%20RISC%20V_nidhi.jpg)
