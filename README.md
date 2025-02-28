@@ -1,11 +1,19 @@
 ## RISC-V workshop
-## About Me
-Name: Shrinidhi
-College: Sahyadri college of engineering and management
-Email ID: shrinidhi.ec23@sahyadri.edu.in
-## LinkedIn 
-[LinkedIn](https://www.linkedin.com/in/shrinidhi-6239a8292)
 
+## About Me
+
+Name: Shrinidhi
+
+College: Sahyadri college of engineering and management
+
+Email ID: shrinidhi.ec23@sahyadri.edu.in
+
+## LinkedIn 
+
+[LinkedIn](https://www.linkedin.com/in/shrinidhi-6239a8292)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrinidhi-6239a8292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+***
 
 </details>
 
@@ -136,9 +144,8 @@ Privacy-Friendly: Suitable for use in private rooms without violating privacy.
   ## VSD Squadron Mini Motion Sensing Alarm
  ![](https://github.com/Nidhi-ece-sahyadri/RISCV/blob/cd5906589598fbf52364114e4c764e957478cc04/TASK5/A%20RISC%20V_nidhi.jpg)
   
-</details>
 
-[LinkedIn](https://www.linkedin.com/in/shrinidhi-6239a8292)
+
 
 
 
