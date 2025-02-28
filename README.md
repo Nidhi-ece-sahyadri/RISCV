@@ -130,6 +130,7 @@ Privacy-Friendly: Suitable for use in private rooms without violating privacy.
 
   ## circuit diagram
   
+  
 </details>
 
 [LinkedIn](https://www.linkedin.com/in/shrinidhi-6239a8292)
