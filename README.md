@@ -127,5 +127,8 @@ Table for Pin Connection
 - Pin 2 to	PC3
 
 
+[GitHub](https://www.linkedin.com/in/shrinidhi-6239a8292)
+
+
 
 
